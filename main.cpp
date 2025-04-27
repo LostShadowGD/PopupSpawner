@@ -1,5 +1,5 @@
 #include <Geode/Geode.hpp>
-#include <Geode/modify/PlayLayer.hpp>
+#include <Geode/cocos/layers_scenes_transitions_nodes/CCScene.h>
 #include <Geode/ui/FLAlertLayer.hpp>
 
 using namespace geode::prelude;
