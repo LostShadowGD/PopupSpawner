@@ -1,0 +1,12 @@
+{
+    "geode": "v4.3.1",
+    "gd": {
+        "win": "2.207",
+        "mac": "2.207",
+    }
+    "id": "lostshadowgd.popupspawner",
+    "name": "PopupSpawner",
+    "version": "v1.0.0",
+    "developer": "LostShadowGD"
+    "tags": ["utility"]
+}
